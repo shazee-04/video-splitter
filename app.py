@@ -108,7 +108,7 @@ app = tb.Window(themename="cyborg")  # Replace "cyborg" with an available theme 
 app.title("Video Splitter")
 
 # Load the icon once
-icon_path = os.path.join(os.path.dirname(__file__), "video1.ico")
+icon_path = os.path.join(os.path.dirname(__file__), "favicon.ico")
 if os.path.exists(icon_path):
     icon_image = Image.open(icon_path)
     icon = ImageTk.PhotoImage(icon_image)
