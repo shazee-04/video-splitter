@@ -1,0 +1,4 @@
+moviepy
+Pillow
+ttkbootstrap
+imageio-ffmpeg
